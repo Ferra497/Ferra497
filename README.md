@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python/java and html/css/javascript
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me "alessio.brokelab@gmail.com"
+- 📫 How to reach me "ferra997@gmail.com"
